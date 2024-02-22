@@ -25,7 +25,7 @@ To learn more about Next.js, take a look at the following resources:
 - [Vue.js Documentation](https://vuejs.org/docs) - learn about Vue.js features and API.
 - [Learn Vue.js](https://vuejs.org/learn) - an interactive Vue.js tutorial.
 
-You can check out [the Vue.js GitHub repository](https://github.com/vercel/Vue.js/) - your feedback and contributions are welcome!
+You can check out [the Vue.js GitHub repository](https://github.com/Niz46/Favour-Space-Protolio) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
