@@ -1,7 +1,9 @@
+import Html from "../public/html.png"
+
 export const Skill_data = [
     {
       skill_name: "Html 5",
-      Image: "/html.png",
+      Image: {Html},
       width: 80,
       height: 80,
     },
